@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @plexy1
 - 👀 I’m interested in android development, ui design and software utilities.
-- 🌱 I’m currently learning ui design.
+- 🌱 I’m currently learning js.
 - 📫 Reach me at
 email - rishabyadav6132@gmail.com
 Discord - Plexy#3656
