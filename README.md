@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rishab and I'm a software engineering student from toronto.</h2>
+<h2 align="left">Hi 👋! My name is Rishab and I'm a software engineering student from Toronto.</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/i/9jra3p"  />
+<img align="right" height="150" src="https://imgflip.com/i/9jra3p.jpg"  />
 
 ###
 
@@ -56,7 +56,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/plexy1/plexy1/output/snake.svg" alt="Snake animation" />
 
 ###
